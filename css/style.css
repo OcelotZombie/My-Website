@@ -1,0 +1,60 @@
+body {
+    background-color: #1a074f;
+    font-family: Georgia, serif;
+}
+
+.main-head {
+    color: #665fe9;
+    font-size: 50px;
+    text-align: center;
+}
+
+.sub-head {
+    color: #4d25ff;
+    font-size: 30px;
+    text-align: center;
+}
+
+.about-head {
+    color: #4d25ff;
+    font-size: 15px;
+    text-align: center;
+}
+
+p {
+    color: #858ae3;
+    font-size: 20px;
+}
+
+.cell {
+    float: right;
+}
+
+a {
+    color: #858ae3;
+    font-size: 30px;
+}
+
+ul {
+    color: #4d25ff;
+    font-size: 25px;
+}
+
+ol {
+    color: #4d25ff;
+    font-size: 25px;
+}
+
+th {
+    color:#858ae3;
+}
+
+td {
+    color:#665fe9;
+    text-align: center;
+}
+
+.small-link {
+    color: #858ae3;
+    font-size: 20px; 
+}
